@@ -1,62 +1,57 @@
 # 2022-DS-lesson
-NSYSU CSE
-中山大學資工系修習「資料結構」課程時的上機作業紀錄，共 8 週，每週包含一份或多份 C++ 程式與作業說明（PDF）。
+<h4> (NSYSU CSE) </h4>
+<p>The programming assignments consist of 8 weeks, each including C++ programs and assignment instructions (PDF).
+
+
+## Week 1 : Logic Practice with Math Problems
+
+- [hw1a.pdf](HW1/hw1a.pdf)：Create a magic square of size N (where N is an odd number).
+
+- [hw1b.pdf](HW1/hw1b.pdf)：Print the factorial of every integer from 1 to N, where N is less than 50.
+  
+
+## Week 2 : Building a Set Class in C++
+
+- [hw2.pdf](HW2/hw2.pdf)：Create a "Set" class in C++ that can perform the operations.
+  
+
+## Week 3 : Application of Stack
+
+- [hw3.pdf](HW3/hw3.pdf)：The sequence of moves for a knight to cover the entire chessboard.
+  
+  
+## Week 4 : Recursion Application
+
+- [hw4.pdf](HW4/hw4.pdf)：Modify the previous problem into a recursive program.
+  
+
+## Week 5 : Application of Linked List
+
+- [hw5.pdf](HW5/hw5.pdf)：Design a program that can handle the addition and multiplication of two polynomials
+  
+
+## Week 6 : Application of Binary Tree     
+
+- [hw6.pdf](HW6/hw6.pdf)：Given a list of integers, identify and return all numbers that occur an odd number of times in the list.
+  
+
+## Week 7 : Efficiency of Sorting Algorithms
+
+- [hw7.pdf](HW7/hw7.pdf)：Testing the Execution Efficiency of Five Sorting Algorithms.
+  
+
+## Week 8 : Create a Huffman Compression Software
+
+- [hw8.pdf](HW8/hw8.pdf)：Develop a file compression and decompression software using the Huffman algorithm.
+
+
+
+
+
+
+
 
 ---
-## 📚 作業週次總覽
-
-### Week 1：基本輸入與條件判斷
-
-- 📄 [hw1a說明 PDF](HW1/hw1a.pdf)
-  題目:印出1到N之間所有整數之階乘 (factorial)，N<=50。
-- 📄 [hw1b說明 PDF](HW1/hw1b.pdf)
-  題目:印出1到N之間所有整數之階乘 (factorial)，N<=50。
-
----
-
-### Week 2：迴圈與簡易邏輯
-- 練習 for/while 迴圈結構與條件組合。
-- 📄 [作業說明 PDF](HW2/hw2.pdf)
-
----
-
-### Week 3：陣列操作
-- 實作簡單的一維與二維陣列排序與搜尋。
-- 📄 [作業說明 PDF](HW3/hw3.pdf)
-
----
-
-### Week 4：字串處理
-- 練習 C++ 中的字串操作與函式撰寫。
-- 📄 [作業說明 PDF](HW4/hw4.pdf)
-
----
-
-### Week 5：堆疊（Stack）
-- 使用陣列或 STL 實作 stack 結構。
-- 📄 [作業說明 PDF](HW5/hw5.pdf)
-
----
-
-### Week 6：佇列（Queue）
-
-- 📄 [作業說明 PDF](HW6/hw6.pdf)
-  題目:給予一串數字，找出所有出現次數為奇數之數字。
-
----
-
-### Week 7：鏈結串列（Linked List）
-- 練習節點建立與基本鏈結操作。
-- 📄 [作業說明 PDF](HW7/hw7.pdf)
-
----
-
-### Week 8：二元樹（Binary Tree）
-- 建立與走訪 binary tree 結構。
-- 📄 [作業說明 PDF](HW8/hw8.pdf)
-
----
-
-🛠 每週資料夾內包含 PDF 題目說明與對應 C++ 程式檔案。  
+  
 歡迎參考與交流 🙌
 
